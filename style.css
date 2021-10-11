@@ -1,0 +1,42 @@
+.mainDiv{
+    background-color: red;
+    height: 40vh;
+}
+
+.mainDiv2{
+    background-color: orange;
+    height: 40vh;
+}
+
+
+/* @media only screen and (min-width:400px){
+
+} */
+
+/* @media (min-width: 576px) { 
+ .mainDiv{
+     background-color: yellow;
+    }
+ }
+
+ @media (min-width: 768px) { 
+    .mainDiv{
+        background-color: orange;
+       }
+  }
+
+
+  @media (min-width: 992px) {
+    .mainDiv{
+        background-color: pink;
+       }
+    }
+
+    @media (min-width: 1024px) {
+        .mainDiv{
+            background-color: red;
+           }
+        } */
+
+
+
